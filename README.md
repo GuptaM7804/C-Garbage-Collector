@@ -1,1 +1,2 @@
-# C-Garbage-Collector
+# hw4-template
+Garbage Collector for C
